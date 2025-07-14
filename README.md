@@ -1,18 +1,18 @@
 # Advance-Python-Assignment
 # Part I: Process Automation
-Q1. Create a file that contains 1000 lines of random strings.
+ Q1. Create a file that contains 1000 lines of random strings.
 
-Q2. Create a file that contains multiple lines of random strings and file size must be 5 MB.
+ Q2. Create a file that contains multiple lines of random strings and file size must be 5 MB.
 
-Q3. Create 10 files that contains multiple lines of random strings and file size of each file must be 5 MB
+ Q3. Create 10 files that contains multiple lines of random strings and file size of each file must be 5 MB
 
-Q4. Create 5 files of size 1GB, 2GB, 3GB, 4GB and 5GB; file contains multiple lines of random strings.
+ Q4. Create 5 files of size 1GB, 2GB, 3GB, 4GB and 5GB; file contains multiple lines of random strings.
 
-Q5. Convert all the files of Q4 into upper case one by one.
+ Q5. Convert all the files of Q4 into upper case one by one.
 
-Q6. Convert all the files of Q4 into upper case parallel using multi-threading.
+ Q6. Convert all the files of Q4 into upper case parallel using multi-threading.
 
-Q7. WAP to automatically download 10 images of cat from “Google Images”. [Hint: Find the package from pypi.org and use it]
+ Q7. WAP to automatically download 10 images of cat from “Google Images”. [Hint: Find the package from pypi.org and use it]
 
 <img width="1007" height="198" alt="Screenshot 2025-07-14 113301" src="https://github.com/user-attachments/assets/a668a26d-a525-4607-93ce-9c0dcd574dc7" />
 

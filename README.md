@@ -14,8 +14,11 @@ Q6. Convert all the files of Q4 into upper case parallel using multi-threading.
 
 Q7. WAP to automatically download 10 images of cat from “Google Images”. [Hint: Find the package from pypi.org and use it]
 
+<img width="1007" height="198" alt="Screenshot 2025-07-14 113301" src="https://github.com/user-attachments/assets/a668a26d-a525-4607-93ce-9c0dcd574dc7" />
+
+
 # Part II: Data Analytics
-Q8. Create a random dataset of 100 rows and 30 columns. All the values are defined between [1,200]. Perform the following operations:
+Q12. Create a random dataset of 100 rows and 30 columns. All the values are defined between [1,200]. Perform the following operations:
 
 (i) Replace all the values with NA in the dataset defined between [10, 60]. Print the count of number rows having missing values.
 
@@ -27,7 +30,7 @@ Q8. Create a random dataset of 100 rows and 30 columns. All the values are defin
 
 (v) Replace all the values in the dataset with 1 if value <=0.5 else with 0.
 
-Q9. Create a random dataset of 500 rows and 10 columns.
+Q13. Create a random dataset of 500 rows and 10 columns.
 
 Columns 1 to 4 are defined between [-10, 10];
 
@@ -41,7 +44,7 @@ Apply following clustering algorithms; determine the optimal number of clusters 
 
 (ii) Hierarchical clustering
 
-Q10. Create a random dataset of 600 rows and 15 columns. All the values are defined between [-100,100].
+Q14. Create a random dataset of 600 rows and 15 columns. All the values are defined between [-100,100].
 
 Perform the following operations:
 
@@ -51,7 +54,7 @@ Perform the following operations:
 
 (iii) Plot the Box plot of each column in single graph.
 
-Q11. Create a random dataset of 500 rows and 5 columns:
+Q15. Create a random dataset of 500 rows and 5 columns:
 
 All the values are defined between [5,10]. Perform the following operations:
 

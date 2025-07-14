@@ -1,6 +1,6 @@
 # Advance-Python-Assignment
 # Part I: Process Automation
- Q1. Create a file that contains 1000 lines of random strings.
+# Q1. Create a file that contains 1000 lines of random strings.
 
  Q2. Create a file that contains multiple lines of random strings and file size must be 5 MB.
 
